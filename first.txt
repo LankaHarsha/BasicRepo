@@ -1,1 +1,3 @@
-thiss is a sample text file,...
+main(){
+  prints("Hello world");
+}
